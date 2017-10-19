@@ -1,0 +1,11 @@
+{
+  "name": "share-lee",
+  "version": "0.0.1",
+  "description": "网页分享（微博、QZone、微信）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruce Lee",
+  "license": "ISC"
+}
