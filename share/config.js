@@ -1,7 +1,7 @@
 var config = {
     
     api :{
-        wechat : 'http://vr.api.autohome.com.cn/snsauth/wechat/jssdk/signature?url='+location.href,
+        wechat : '',
         weibo : ''
     },
    
